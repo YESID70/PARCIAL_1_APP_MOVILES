@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "titulo": "Programación en React Native",
+    "descripcion": "React Native permite desarrollar aplicaciones móviles para iOS y Android usando JavaScript y React.",
+    "urlImagen": "https://reactnative.dev/img/tiny_logo.png",
+    "mostrarTodo": false
+  },
+  {
+    "id": 2,
+    "titulo": "Desarrollo en Python",
+    "descripcion": "Python es un lenguaje de programación versátil y fácil de aprender, ideal para desarrollo web, análisis de datos, inteligencia artificial y más.",
+    "urlImagen": "https://www.python.org/static/community_logos/python-logo.png",
+    "mostrarTodo": false
+  }
+]
+

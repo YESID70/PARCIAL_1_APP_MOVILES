@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "titulo": "Yamaha MT-07",
+    "descripcion": "Una motocicleta naked con un motor de 689 cc, ideal para la ciudad y carreteras. Se caracteriza por su agilidad y potencia.",
+    "año": 2024,
+    "urlImagen": "https://placehold.co/600x400/000000/ffffff?text=Yamaha+MT-07"
+  },
+  {
+    "id": 2,
+    "titulo": "Kawasaki Ninja 400",
+    "descripcion": "Una moto deportiva ligera y potente, perfecta para pilotos que buscan rendimiento y un diseño agresivo. Motor bicilíndrico de 399 cc.",
+    "año": 2023,
+    "urlImagen": "https://placehold.co/600x400/000000/ffffff?text=Kawasaki+Ninja+400"
+  },
+  {
+    "id": 3,
+    "titulo": "Honda Rebel 500",
+    "descripcion": "Una cruiser de estilo clásico y moderno. Fácil de manejar, cómoda para viajes largos y con un motor de 471 cc.",
+    "año": 2024,
+    "urlImagen": "https://placehold.co/600x400/000000/ffffff?text=Honda+Rebel+500"
+  },
+  {
+    "id": 4,
+    "titulo": "Harley-Davidson Iron 883",
+    "descripcion": "Un ícono del estilo custom. Con su motor V-Twin de 883 cc y un diseño minimalista y robusto, es una moto de culto.",
+    "año": 2022,
+    "urlImagen": "https://placehold.co/600x400/000000/ffffff?text=Harley-Davidson+Iron+883"
+  }
+]
